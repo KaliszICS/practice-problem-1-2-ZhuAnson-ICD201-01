@@ -1,25 +1,27 @@
+name="Alex"
+print(name)
 
+num1=3
+num2=2
+num3=4
+print(f"sum of all numbers is {num1+num2+num3}")
 
-#Write Assignment code here
+num1=21
+num2=4
+print(f"quotient of the two numbers is {num1//num2}")
 
-def q1():
+num1=6.3
+num2=3.0
+print(f"quotient of the two numbers is {num1//num2}")
 
-def q2():
+word="Hello World"
+print(word)
+word="Goodbye World"
+print(word)
 
-def q3():
+value=True
+print(value)
 
-def q4():
-
-def q5():
-
-def q6():
-
-def q7():
-
-q1()
-q2()
-q3()
-q4()
-q5()
-q6()
-q7()
+num1=7
+num2=2 
+print(f"remaind of the two numbers is {num1%num2}")
